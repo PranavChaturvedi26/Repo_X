@@ -9,3 +9,4 @@ console.log("This is the fourth line of the index.js file.");
 console.log("This is the fifth line of the index.js file.");
 console.log("This is the sixth line of the index.js file.");
 console.log("This is the seventh line of the index.js file.");
+console.log("This is the eighth line of the index.js file.");
